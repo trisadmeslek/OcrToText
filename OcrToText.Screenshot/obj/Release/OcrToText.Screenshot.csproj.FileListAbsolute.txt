@@ -1,0 +1,10 @@
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\bin\Release\OcrToText.Screenshot.dll
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\bin\Release\OcrToText.Screenshot.pdb
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\obj\Release\OcrToText.Screenshot.csproj.AssemblyReference.cache
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\obj\Release\RegionSelectionWindow.baml
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\obj\Release\RegionSelectionWindow.g.cs
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\obj\Release\OcrToText.Screenshot_MarkupCompile.cache
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\obj\Release\OcrToText.Screenshot.g.resources
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\obj\Release\OcrToText.Screenshot.csproj.CoreCompileInputs.cache
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\obj\Release\OcrToText.Screenshot.dll
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\obj\Release\OcrToText.Screenshot.pdb

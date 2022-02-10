@@ -1,0 +1,9 @@
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\bin\x64\Release\OcrToText.Screenshot.dll
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\bin\x64\Release\OcrToText.Screenshot.pdb
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\obj\x64\Release\RegionSelectionWindow.baml
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\obj\x64\Release\RegionSelectionWindow.g.cs
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\obj\x64\Release\OcrToText.Screenshot_MarkupCompile.cache
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\obj\x64\Release\OcrToText.Screenshot.g.resources
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\obj\x64\Release\OcrToText.Screenshot.csproj.CoreCompileInputs.cache
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\obj\x64\Release\OcrToText.Screenshot.dll
+C:\Users\erroy\Desktop\OcrToText\OcrToText.Screenshot\obj\x64\Release\OcrToText.Screenshot.pdb

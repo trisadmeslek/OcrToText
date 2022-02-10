@@ -1,0 +1,33 @@
+D:\Bejjo\Task\Projects\C#\Simple OCR\bin\Debug\x86\liblept1753.dll
+D:\Bejjo\Task\Projects\C#\Simple OCR\bin\Debug\x86\libtesseract3052.dll
+D:\Bejjo\Task\Projects\C#\Simple OCR\bin\Debug\x64\liblept1753.dll
+D:\Bejjo\Task\Projects\C#\Simple OCR\bin\Debug\x64\libtesseract3052.dll
+D:\Bejjo\Task\Projects\C#\Simple OCR\bin\Debug\Simple OCR.exe.config
+D:\Bejjo\Task\Projects\C#\Simple OCR\bin\Debug\Simple OCR.exe
+D:\Bejjo\Task\Projects\C#\Simple OCR\bin\Debug\Simple OCR.pdb
+D:\Bejjo\Task\Projects\C#\Simple OCR\bin\Debug\Tesseract.dll
+D:\Bejjo\Task\Projects\C#\Simple OCR\obj\Debug\Simple OCR.csprojAssemblyReference.cache
+D:\Bejjo\Task\Projects\C#\Simple OCR\obj\Debug\Simple_OCR.Form1.resources
+D:\Bejjo\Task\Projects\C#\Simple OCR\obj\Debug\Simple_OCR.Properties.Resources.resources
+D:\Bejjo\Task\Projects\C#\Simple OCR\obj\Debug\Simple OCR.csproj.GenerateResource.cache
+D:\Bejjo\Task\Projects\C#\Simple OCR\obj\Debug\Simple OCR.csproj.CoreCompileInputs.cache
+D:\Bejjo\Task\Projects\C#\Simple OCR\obj\Debug\Simple OCR.csproj.CopyComplete
+D:\Bejjo\Task\Projects\C#\Simple OCR\obj\Debug\Simple OCR.exe
+D:\Bejjo\Task\Projects\C#\Simple OCR\obj\Debug\Simple OCR.pdb
+C:\Users\erroy\Desktop\Simple-OCR-master\bin\Debug\Simple OCR.exe.config
+C:\Users\erroy\Desktop\Simple-OCR-master\bin\Debug\Simple OCR.exe
+C:\Users\erroy\Desktop\Simple-OCR-master\bin\Debug\Simple OCR.pdb
+C:\Users\erroy\Desktop\Simple-OCR-master\bin\Debug\Tesseract.dll
+C:\Users\erroy\Desktop\Simple-OCR-master\obj\Debug\Simple OCR.csproj.AssemblyReference.cache
+C:\Users\erroy\Desktop\Simple-OCR-master\obj\Debug\Simple OCR.csproj.SuggestedBindingRedirects.cache
+C:\Users\erroy\Desktop\Simple-OCR-master\obj\Debug\Simple_OCR.Form1.resources
+C:\Users\erroy\Desktop\Simple-OCR-master\obj\Debug\Simple_OCR.Properties.Resources.resources
+C:\Users\erroy\Desktop\Simple-OCR-master\obj\Debug\Simple OCR.csproj.GenerateResource.cache
+C:\Users\erroy\Desktop\Simple-OCR-master\obj\Debug\Simple OCR.csproj.CoreCompileInputs.cache
+C:\Users\erroy\Desktop\Simple-OCR-master\obj\Debug\Simple OCR.csproj.CopyComplete
+C:\Users\erroy\Desktop\Simple-OCR-master\obj\Debug\Simple OCR.exe
+C:\Users\erroy\Desktop\Simple-OCR-master\obj\Debug\Simple OCR.pdb
+C:\Users\erroy\Desktop\Simple-OCR-master\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\erroy\Desktop\Simple-OCR-master\bin\Debug\x86\tesseract41.dll
+C:\Users\erroy\Desktop\Simple-OCR-master\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\erroy\Desktop\Simple-OCR-master\bin\Debug\x64\tesseract41.dll

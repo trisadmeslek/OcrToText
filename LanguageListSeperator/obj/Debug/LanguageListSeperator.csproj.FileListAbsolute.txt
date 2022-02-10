@@ -1,0 +1,8 @@
+C:\Users\erroy\Desktop\OcrToText\LanguageListSeperator\bin\Debug\LanguageListSeperator.exe.config
+C:\Users\erroy\Desktop\OcrToText\LanguageListSeperator\bin\Debug\LanguageListSeperator.exe
+C:\Users\erroy\Desktop\OcrToText\LanguageListSeperator\bin\Debug\LanguageListSeperator.pdb
+C:\Users\erroy\Desktop\OcrToText\LanguageListSeperator\obj\Debug\LanguageListSeperator.csproj.AssemblyReference.cache
+C:\Users\erroy\Desktop\OcrToText\LanguageListSeperator\obj\Debug\LanguageListSeperator.csproj.SuggestedBindingRedirects.cache
+C:\Users\erroy\Desktop\OcrToText\LanguageListSeperator\obj\Debug\LanguageListSeperator.csproj.CoreCompileInputs.cache
+C:\Users\erroy\Desktop\OcrToText\LanguageListSeperator\obj\Debug\LanguageListSeperator.exe
+C:\Users\erroy\Desktop\OcrToText\LanguageListSeperator\obj\Debug\LanguageListSeperator.pdb

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb5c468d-3664-45ac-bf93-0d27a20f2f75": {
+      "ProjectGuid": "bb5c468d-3664-45ac-bf93-0d27a20f2f75",
+      "DisplayName": "OcrToText",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8c0105a0-cbeb-46cc-b790-5f8b36b7c508": {
+      "ProjectGuid": "8c0105a0-cbeb-46cc-b790-5f8b36b7c508",
+      "DisplayName": "LanguageListSeperator",
+      "ColorIndex": 1
+    },
+    "38b15fc5-1ea1-45e6-a219-9d5dfe95aff0": {
+      "ProjectGuid": "38b15fc5-1ea1-45e6-a219-9d5dfe95aff0",
+      "DisplayName": "OcrToText.Screenshot",
+      "ColorIndex": 2
+    },
+    "a72b3fe4-6510-49e3-9986-c3e064c745ee": {
+      "ProjectGuid": "a72b3fe4-6510-49e3-9986-c3e064c745ee",
+      "DisplayName": "OcrToText.Editor",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
